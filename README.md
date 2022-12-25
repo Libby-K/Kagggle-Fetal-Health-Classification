@@ -9,6 +9,6 @@ The repository contains three main files:
 
 2. Model Training and Testing: This file contains code for training and testing a machine learning model using object-oriented programming (OOP). The code is organized into classes and methods, making it easy to modify and reuse. The file also includes code for testing the model using various metrics and techniques.
 
-3/ Unit Tests: This file contains a set of unit tests that are used to validate the functionality of the code in the model training and testing file. These tests ensure that the code is working as intended and can catch any potential bugs or issues before the model is deployed in production.
+3. Unit Tests: This file contains a set of unit tests that are used to validate the functionality of the code in the model training and testing file. These tests ensure that the code is working as intended and can catch any potential bugs or issues before the model is deployed in production.
 
 Overall, this repository provides a comprehensive overview of the process of building a machine learning model for fetal health classification, including data preparation, feature selection, model training and testing, and unit testing.
